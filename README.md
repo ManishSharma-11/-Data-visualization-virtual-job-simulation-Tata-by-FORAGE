@@ -56,4 +56,49 @@ Created visuals for four key questions from the CEO and CMO using Tableau or Pow
 - CMO: Top 10 revenue-generating countries (excluding the UK) with quantities sold.
 - CMO: Top 10 customers by revenue to identify high-value clients.<br><br>
 
-Following viz. is obtained as a result of this project
+Following viz. is obtained as a result of this project <br><br>
+![viz](https://github.com/ManishSharma-11/-Data-visualization-virtual-job-simulation-Tata-by-FORAGE/blob/main/Screenshot%202025-09-07%20142624.png)
+
+<br><br>
+# Task 4 : Communicating Insights and Analysis
+
+## CEO Insights<br><br>
+
+### 1. Monthly Revenue Trends – 2011 (Seasonality & Forecasting):
+- Revenue peaked in July (₹1.75M) and remained strong through September and November.
+- Lowest revenue observed in March (₹767K).
+- Clear upward trend from March to July, suggesting mid-year sales surge.
+- Useful for forecasting and aligning future campaigns with seasonal highs.<br><br>
+
+### 2. Product Demand by Country (Excluding UK):
+
+- High demand observed in Netherlands, Germany, France, Spain, Japan, Australia, Finland, EIRE, Sweden.
+- Indicates strong market presence in Western Europe and Asia-Pacific.
+- UK excluded due to separate analysis; expansion potential in Netherlands and Germany based on demand density.
+<br><br>
+
+## CMO Insights<br><br>
+
+### 3. Top 10 Revenue-Generating Countries (Excluding UK):
+- Ireland (₹273K) leads, followed by France, Germany, Spain, Sweden, Japan, Australia, Netherlands, Finland, EIRE.
+- Revenue values range from ₹273K to ₹211K, showing relatively balanced performance across these markets.
+- Quantity data not shown directly but inferred from consistent revenue spread.
+
+### 4. Top 10 Customers by Revenue:
+- Customer ID 1 (₹1.28M) is the highest contributor.
+- IDs 2–5 also exceed ₹1.15M, indicating strong repeat or bulk purchases.
+- IDs 6–10 cluster around ₹767K, suggesting mid-tier clients.
+
+<br>
+
+## Top 3 Buisness recommendations<br>
+
+- Align marketing and sales efforts with mid-year revenue peaks (Q2–Q3).
+- Expand operations in high-demand, high-revenue countries (e.g., Netherlands, Germany, France).
+- Strengthen engagement with top 5 high-value customers through loyalty and retention strategies.
+
+<br><br><br>
+
+# Achievement 
+![certificate]()
+
